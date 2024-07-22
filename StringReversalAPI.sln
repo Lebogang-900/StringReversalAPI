@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReversalAPI", "StringReversalAPI.csproj", "{0BBEF0CF-8507-47E8-89B5-89D5F5979DA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BBEF0CF-8507-47E8-89B5-89D5F5979DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBEF0CF-8507-47E8-89B5-89D5F5979DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBEF0CF-8507-47E8-89B5-89D5F5979DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBEF0CF-8507-47E8-89B5-89D5F5979DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1B39B91-3B6B-4376-9160-4D29E1005F7D}
+	EndGlobalSection
+EndGlobal
