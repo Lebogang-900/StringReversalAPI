@@ -9,7 +9,7 @@ This API can be useful in various applications where string manipulation is need
 
 ## How Users Can Get Started with the Project
 1. **Download the Latest Release from GitHub:**
-   - Download from the [StringReversalAPI project](https://github.com/Lebogang-900/StringReversalAPI).
+   - Download the project: [StringReversalAPI project](https://github.com/Lebogang-900/StringReversalAPI).
 
 2. **Build the Project:**
    - Open the project in your favorite IDE (such as Visual Studio) and build the solution.
