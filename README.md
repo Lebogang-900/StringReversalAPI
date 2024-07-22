@@ -28,8 +28,8 @@ If you need help with the project, you can:
 - Open an issue on the [GitHub Issues page](https://github.com/Lebogang-900/StringReversalAPI/issues).
 - Contact me directly via email at agneslebogang9@gmail.com.
 
-## Who Maintains and Contributes to the Project
-This project is maintained by [Lebogang Chibwana](https://github.com/Lebogang-900). Contributions are welcome from anyone. Feel free to fork the repository and submit pull requests.
+## Who Maintains the Project
+This project is maintained by [Lebogang Chibwana](https://github.com/Lebogang-900).
 
 ## Additional Information
 - **License:** This project is free and open-source.
